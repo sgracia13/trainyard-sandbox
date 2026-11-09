@@ -1,4 +1,4 @@
 title: Checkout
 total: Total
 button: Pay now
-remember: Keep me signed in BUG
+remember: Keep me signed in
