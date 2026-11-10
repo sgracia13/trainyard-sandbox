@@ -1,4 +1,4 @@
 title: Sign in to your account
 subtitle: Welcome back
-error: We couldn’t sign you in. Check your email and password.
+error: Wrong email or password.
 button: Go
