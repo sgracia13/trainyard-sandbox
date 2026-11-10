@@ -1,4 +1,4 @@
-title: Sign in to your account
+title: Sign in
 subtitle: Welcome back
 error: Hmm, that didn’t work. Check your email and password.
 button: Go
